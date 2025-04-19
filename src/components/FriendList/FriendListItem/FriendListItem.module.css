@@ -1,3 +1,11 @@
 .content {
   text-align: center;
 }
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
